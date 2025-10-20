@@ -1,5 +1,5 @@
 <p align="center">
-  ![Profile Video](me-krishnaprasad-dev/me-krishnaprasad-dev/blob/main/banner.gif?raw=true)
+  ![Banner](https://raw.githubusercontent.com/me-krishnaprasad-dev/me-krishnaprasad-dev/main/banner.gif)
 </p>
 
 <h1 align="center">🚀 Associate Software Engineer</h1>
