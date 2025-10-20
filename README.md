@@ -1,15 +1,25 @@
-# 🚀 Associate Engineer
+<p align="center">
+  <img src="https://your-banner-image.com/banner.png" alt="banner" style="width:100%;"/>
+</p>
 
-## 🔧 Tech Stack
+<h1 align="center">🚀 Associate Software Engineer</h1>
+<p align="center">
+  Passionate about building scalable backend systems, distributed architectures, and automation pipelines. Learning one byte at a time!
+</p>
 
-### **Languages**
-- Java
-- Python
-- Rust
-- Bash/Shell (basic scripting)
-- (Learning) TypeScript, Go
+---
 
-### **Frameworks & Libraries**
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-Bash-blue?logo=gnubash&logoColor=white)
+![Go (Learning)](https://img.shields.io/badge/Go-Learning-00ADD8?logo=go)
+![TypeScript (Learning)](https://img.shields.io/badge/TypeScript-Learning-3178C6?logo=typescript)
+
+### 🚀 Frameworks & Libraries
 - Spring Boot (Java)
 - FastAPI (Python)
 - JPA (Hibernate, Spring Data JPA)
@@ -18,93 +28,103 @@
 - gRPC / Protocol Buffers *(learning)*
 - Quarkus / Micronaut *(exploring)*
 
-### **Databases**
+### 🗄️ Databases
 - **Relational:** PostgreSQL, MySQL  
 - **NoSQL:** Redis, Cassandra, MongoDB  
-- **Analytics & Time-Series:** ClickHouse, TimescaleDB *(learning)*  
-- **Graph:** Neo4j *(exploring)*
+- **Analytics / Time-Series:** ClickHouse, TimescaleDB *(learning)*  
+- **Graph DBs:** Neo4j *(exploring)*
 
-### **Messaging & Event Streaming**
+### 📩 Messaging & Streaming
 - Apache Kafka
 - RabbitMQ
-- (Learning) AWS SNS/SQS, Apache Pulsar
+- *(Learning)* AWS SNS/SQS, Apache Pulsar
 
-### **DevOps & Tooling**
-- **Build Tools:** Maven, Gradle
-- **Version Control:** Git, GitHub, GitLab
-- **CI/CD:** Jenkins, GitHub Actions, GitLab CI/CD
-- **Containerization:** Docker, Podman
-- **Orchestration:** Kubernetes (basic understanding), Helm
-- **Infrastructure as Code:** Terraform *(learning)*, Ansible *(exploring)*
+### ⚙️ DevOps & Tools
+- **Build Tools:** Maven, Gradle  
+- **CI/CD:** Jenkins, GitHub Actions, GitLab CI/CD  
+- **Version Control:** Git, GitHub, GitLab  
+- **Containers & Orchestration:** Docker, Podman, Kubernetes *(basic)*, Helm  
+- **IaC:** Terraform *(learning)*, Ansible *(exploring)*
 
-### **Monitoring & Observability**
-- Prometheus, Grafana
-- ELK Stack (Elasticsearch, Logstash, Kibana)
-- OpenTelemetry *(learning)*
-- Jaeger / Zipkin *(for tracing)*
+### 📊 Monitoring & Observability
+- Prometheus, Grafana  
+- ELK Stack (Elasticsearch, Logstash, Kibana)  
+- OpenTelemetry *(learning)*  
+- Jaeger / Zipkin (Tracing)
 
-### **Cloud Platforms**
-- **Primary:** AWS (EC2, S3, RDS, Lambda, CloudWatch)
-- **Secondary (Exploring):** GCP, Azure
+### ☁️ Cloud Platforms
+- **Primary:** AWS (EC2, S3, RDS, Lambda, CloudWatch)  
+- **Exploring:** GCP, Azure  
 - **Serverless:** AWS Lambda *(basic understanding)*
 
-### **Testing Tools**
-- JUnit 5, Mockito
-- PyTest
-- Testcontainers
+### 🧪 Testing & API Tools
+- JUnit 5, Mockito  
+- PyTest  
+- Testcontainers  
 - Postman, Insomnia
 
 ---
 
-## 🛠️ Additional Tools Worth Learning
-- **GraphQL** – Modern API design
-- **Apache Airflow / Prefect** – Workflow orchestration
-- **Apache Flink / Spark** – Data streaming and batch processing
-- **Snowflake / BigQuery** – Cloud data warehousing
-- **ArgoCD** – GitOps for Kubernetes
+## 🔍 Exploring Next
+
+- 🧬 GraphQL – Modern API design  
+- 📅 Apache Airflow / Prefect – Workflow orchestration  
+- ⚡ Apache Flink / Spark – Data stream/batch processing  
+- 🧊 Snowflake / BigQuery – Cloud data warehousing  
+- 🔁 ArgoCD – GitOps for Kubernetes
 
 ---
 
-## 📐 Architectural Patterns & Concepts
+## 🏗️ Architectural Interests
+
+> 💡 *"Architecture is not just about design patterns; it's about solving problems at scale."*
+
 - Microservices (API Gateway, Circuit Breaker, Service Discovery)
 - Event-Driven Architecture (EDA)
 - Domain-Driven Design (DDD)
-- Clean Architecture / Hexagonal Architecture
+- Clean / Hexagonal Architecture
 - Serverless Patterns
 - CQRS & Event Sourcing *(exploring)*
 
 ---
 
-## 🤹 Soft Skills
-- Quick learner, highly adaptable to new technologies
-- Strong analytical and problem-solving skills
-- Effective team communication and collaboration
-- Exposure to Agile methodologies (Scrum, Kanban)
-- Code review and pair programming experience
+## 💼 Soft Skills
+- 👨‍🏫 Fast learner, curious and adaptable
+- 🧠 Strong analytical and debugging skills
+- 🧑‍🤝‍🧑 Team player, great communicator
+- ✅ Agile experience (Scrum/Kanban)
+- 🔍 Code review and pair programming enthusiast
 
 ---
 
-## 🧭 Career Goals (Next Steps)
-- Deepen knowledge in distributed systems & system design
-- Gain proficiency in Go and TypeScript
-- Master cloud-native development (K8s, Terraform, Serverless)
-- Contribute to open source and build technical blog/projects
-
+## 🎯 Career Goals
+- Master distributed systems & backend system design  
+- Gain expertise in Go and TypeScript  
+- Become fluent in cloud-native DevOps (K8s, Terraform, CI/CD)  
+- Open source contributions & technical blogging
 
 ---
 
-**Find Me Online:**  
-- **LeetCode:** [Your LeetCode link here]  
-- **LinkedIn:** [Your LinkedIn link here]  
-- **Website:** [Your personal website here]  
+## 🌐 Find Me Online
+
+- 📚 **LeetCode:** [Your LeetCode Link](https://leetcode.com/your-profile)
+- 💼 **LinkedIn:** [Your LinkedIn Link](https://linkedin.com/in/your-profile)
+- 🌍 **Website/Portfolio:** [yourdomain.com](https://yourdomain.com)
 
 ---
 
 ## 🎉 Fun Fact
-I once wrote a recursive function to order pizza—needless to say, I got a lot of slices!
+> I once wrote a recursive function to order pizza — needless to say, I got a lot of slices 🍕
 
 ## 🏆 Motto
-"Code like nobody’s watching, debug like everyone is!"
+> *"Code like nobody’s watching, debug like everyone is."*
 
 ## 🌟 Something Unique
-I love building distributed systems that scale, but I also scale up my coffee intake during deployments. When not coding, you’ll find me trying to optimize my Rubik’s Cube solve time or exploring obscure algorithms just for fun.
+> I love building distributed systems that scale — and so does my coffee intake during deployments ☕.  
+> In my downtime, I’m either solving Rubik’s Cubes faster or diving into obscure algorithms just for fun.
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif"/>
+</p>
