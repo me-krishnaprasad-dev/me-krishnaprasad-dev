@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-banner-image.com/banner.png" alt="banner" style="width:100%;"/>
+  <img src="[https://your-banner-image.com/banner.png](https://github.com/me-krishnaprasad-dev/me-krishnaprasad-dev/blob/main/banner.gif)" alt="banner" style="width:100%;"/>
 </p>
 
 <h1 align="center">🚀 Associate Software Engineer</h1>
