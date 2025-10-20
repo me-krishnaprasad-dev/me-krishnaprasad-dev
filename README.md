@@ -1,6 +1,4 @@
-<p align="center">
-  ![Banner](https://raw.githubusercontent.com/me-krishnaprasad-dev/me-krishnaprasad-dev/main/banner.gif)
-</p>
+![Banner](https://raw.githubusercontent.com/me-krishnaprasad-dev/me-krishnaprasad-dev/main/banner.gif)
 
 <h1 align="center">🚀 Associate Software Engineer</h1>
 <p align="center">
