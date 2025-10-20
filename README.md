@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/me-krishnaprasad-dev/me-krishnaprasad-dev/main/banner.gif)
+![Banner](https://www.canva.com/design/DAGbWWUdDFU/2rIFsHnbfGLeQguSO0g8FQ/edit?utm_content=DAGbWWUdDFU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <h1 align="center">🚀 Associate Software Engineer</h1>
 <p align="center">
