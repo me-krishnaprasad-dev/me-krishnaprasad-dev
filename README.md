@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://your-banner-image.com/banner.png](https://github.com/me-krishnaprasad-dev/me-krishnaprasad-dev/blob/main/banner.gif)" alt="banner" style="width:100%;"/>
+  ![Profile Video](me-krishnaprasad-dev/me-krishnaprasad-dev/blob/main/banner.gif?raw=true)
 </p>
 
 <h1 align="center">🚀 Associate Software Engineer</h1>
