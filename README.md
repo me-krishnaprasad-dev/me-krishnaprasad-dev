@@ -2,8 +2,9 @@
 <p align="center"> 
 Java Backend Developer with 2+ years of experience specializing in Spring Boot microservices and distributed systems. Expertise in architecting decoupled Authorization Engines and schema inference tools. Actively building high-performance Full-Stack systems using React and Redis.Passionate about building scalable backend systems, distributed architectures, and automation pipelines. Learning one byte at a time!
 </p>      
+
 ---
-  
+
 ## 🛠️ Tech Stack
  
 ### 👨‍💻 Languages 
