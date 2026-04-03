@@ -19,7 +19,7 @@ Java Backend Developer with 2+ years of experience specializing in Spring Boot m
 ![JPA](https://img.shields.io/badge/JPA-Hibernate-59666C?logo=hibernate&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
-
+![React](https://img.shields.io/badge/React-000000?logo=react&logoColor=white)
 ---
 
 ### 🗄️ Databases
