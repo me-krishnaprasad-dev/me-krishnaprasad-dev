@@ -8,10 +8,8 @@ Java Backend Developer with 2+ years of experience specializing in Spring Boot m
  
 ### 👨‍💻 Languages 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-Bash-blue?logo=gnubash&logoColor=white)
-![TypeScript (Learning)](https://img.shields.io/badge/TypeScript-Learning-3178C6?logo=typescript)
+![TypeScript (Learning)](https://img.shields.io/badge/JavaScript-Learning-3178C6?logo=javascript)
 
 ---
 
